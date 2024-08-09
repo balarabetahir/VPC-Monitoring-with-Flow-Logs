@@ -46,3 +46,8 @@ Conclusion: The Value of Hands-On Experience
 Undertaking this project provided me with valuable hands-on experience in cloud networking, particularly with AWS. By creating VPCs, setting up a peering connection, enabling VPC Flow Logs, and analyzing traffic, I gained a deeper understanding of how to monitor and manage network traffic in a cloud environment.
 
 For anyone learning about Amazon VPCs or cloud networking, I can’t stress enough the importance of monitoring. It’s the key to understanding your network’s performance, diagnosing issues, and ensuring that your cloud infrastructure is running smoothly. Through this project, I not only learned how to monitor VPC traffic but also gained a new appreciation for the power and flexibility of AWS in managing modern network architectures.
+
+<img width="862" alt="architecture-today" src="https://github.com/user-attachments/assets/4690a000-fb5a-4070-8cf7-bbf0d215716b">
+
+
+
